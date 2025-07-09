@@ -1,7 +1,7 @@
 import zipfile
 import os
 
-data_dir = "/data"    # update based on working directory
+data_dir = "data"    # update based on current working directory
 
 for file in os.listdir(data_dir):
     if(file.endswith(".zip")):
