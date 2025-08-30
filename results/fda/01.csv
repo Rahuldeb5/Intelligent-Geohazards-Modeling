@@ -1,0 +1,9 @@
+source_region,target_region,precision,recall,f1,iou,miou,oa
+Hokkaido Iburi-Tobu, Jiuzhai Valley, 0.1629, 0.0987, 0.1229, 0.0655, 0.3865, 0.7133
+Hokkaido Iburi-Tobu, Lombok, 0.2547, 0.2103, 0.2304, 0.1302, 0.5434, 0.9569
+Hokkaido Iburi-Tobu, Longxi River, 0.0906, 0.0034, 0.0065, 0.0032, 0.4398, 0.8763
+Hokkaido Iburi-Tobu, Mengdong Township, 0.2612, 0.0008, 0.0017, 0.0008, 0.4452, 0.8895
+Hokkaido Iburi-Tobu, Luding, 0.2742, 0.0958, 0.1420, 0.0764, 0.4659, 0.8572
+Hokkaido Iburi-Tobu, Palu, 0.1396, 0.4269, 0.2105, 0.1176, 0.5393, 0.9612
+Hokkaido Iburi-Tobu, Tiburon Peninsula, 0.0635, 0.2867, 0.1039, 0.0548, 0.4090, 0.7664
+Hokkaido Iburi-Tobu, Wenchuan, 0.1445, 0.0053, 0.0102, 0.0051, 0.4792, 0.9533
