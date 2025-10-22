@@ -1,4 +1,4 @@
-source_region,target_region,precision,recall,f1,iou,miou,oa
+beta,source_region,precision,recall,f1,iou,miou,oa
 0.01, Hokkaido Iburi-Tobu, 0.4642, 0.0116, 0.0226, 0.0114, 0.4224, 0.8338
 0.01, Jiuzhai valley (UAV-0.2m), 0.3148, 0.8421, 0.4583, 0.2973, 0.4566, 0.6696
 0.01, Jiuzhai valley (UAV-0.5m), 0.5503, 0.5654, 0.5578, 0.3867, 0.6113, 0.8512
