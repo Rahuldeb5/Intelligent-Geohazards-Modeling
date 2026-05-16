@@ -5,3 +5,5 @@ models/*
 !models/.gitkeep
 
 results/longxi_case
+
+spn_profiles
