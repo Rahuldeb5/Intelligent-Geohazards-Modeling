@@ -1,0 +1,241 @@
+source_region,target_region,precision,recall,f1,iou,miou,oa,bf1
+Hokkaido Iburi-Tobu, Jiuzhai valley (UAV-0.2m), 0.8538, 0.4053, 0.5497, 0.3790, 0.5996, 0.8380, 0.1382
+Hokkaido Iburi-Tobu, Jiuzhai valley (UAV-0.5m), 0.7668, 0.4214, 0.5439, 0.3736, 0.6442, 0.9190, 0.2799
+Hokkaido Iburi-Tobu, Lombok, 0.2681, 0.2819, 0.2748, 0.1593, 0.5568, 0.9547, 0.1493
+Hokkaido Iburi-Tobu, Longxi River (SAT), 0.0000, 0.0000, 0.0000, 0.0000, 0.4505, 0.9009, 0.0000
+Hokkaido Iburi-Tobu, Longxi River (UAV), 0.7024, 0.0290, 0.0558, 0.0287, 0.4324, 0.8368, 0.0536
+Hokkaido Iburi-Tobu, Mengdong Township, 0.6248, 0.1672, 0.2638, 0.1519, 0.5290, 0.9077, 0.1780
+Hokkaido Iburi-Tobu, Moxi town (UAV-0.2m), 0.3595, 0.2116, 0.2664, 0.1537, 0.4818, 0.8162, 0.0759
+Hokkaido Iburi-Tobu, Moxi town (UAV-1m), 0.2597, 0.4956, 0.3408, 0.2054, 0.5353, 0.8697, 0.1940
+Hokkaido Iburi-Tobu, Moxitaidi (SAT), 0.3085, 0.2293, 0.2631, 0.1514, 0.5337, 0.9173, 0.1485
+Hokkaido Iburi-Tobu, Moxitaidi (UAV-0.6m), 0.2565, 0.1207, 0.1641, 0.0894, 0.4894, 0.8906, 0.1064
+Hokkaido Iburi-Tobu, Moxitaidi (UAV-1m), 0.1606, 0.2433, 0.1934, 0.1071, 0.4751, 0.8460, 0.1421
+Hokkaido Iburi-Tobu, palu, 0.1397, 0.2404, 0.1767, 0.0969, 0.5358, 0.9748, 0.1460
+Hokkaido Iburi-Tobu, Tiburon Peninsula (planet), 0.6733, 0.2914, 0.4068, 0.2553, 0.5979, 0.9417, 0.2478
+Hokkaido Iburi-Tobu, Tiburon Peninsula (Sentinel), 0.2195, 0.4467, 0.2944, 0.1726, 0.5476, 0.9239, 0.2155
+Hokkaido Iburi-Tobu, Wenchuan, 0.4879, 0.4055, 0.4429, 0.2845, 0.6186, 0.9536, 0.2756
+Jiuzhai valley (UAV-0.2m), Hokkaido Iburi-Tobu, 0.6726, 0.0806, 0.1439, 0.0775, 0.4939, 0.9109, 0.0164
+Jiuzhai valley (UAV-0.2m), Jiuzhai valley (UAV-0.5m), 0.6123, 0.5687, 0.5897, 0.4181, 0.6605, 0.9092, 0.1482
+Jiuzhai valley (UAV-0.2m), Lombok, 0.0729, 0.2308, 0.1109, 0.0587, 0.4725, 0.8872, 0.0116
+Jiuzhai valley (UAV-0.2m), Longxi River (SAT), 0.0000, 0.0000, 0.0000, 0.0000, 0.4497, 0.8994, 0.0000
+Jiuzhai valley (UAV-0.2m), Longxi River (UAV), 0.5057, 0.0877, 0.1495, 0.0808, 0.4564, 0.8344, 0.0310
+Jiuzhai valley (UAV-0.2m), Mengdong Township, 0.3607, 0.5225, 0.4268, 0.2713, 0.5625, 0.8612, 0.1004
+Jiuzhai valley (UAV-0.2m), Moxi town (UAV-0.2m), 0.5126, 0.3255, 0.3982, 0.2486, 0.5425, 0.8448, 0.0486
+Jiuzhai valley (UAV-0.2m), Moxi town (UAV-1m), 0.4360, 0.0527, 0.0940, 0.0493, 0.4900, 0.9310, 0.0198
+Jiuzhai valley (UAV-0.2m), Moxitaidi (SAT), 0.8706, 0.1468, 0.2513, 0.1437, 0.5434, 0.9437, 0.0194
+Jiuzhai valley (UAV-0.2m), Moxitaidi (UAV-0.6m), 0.2808, 0.6508, 0.3924, 0.2441, 0.5268, 0.8205, 0.0808
+Jiuzhai valley (UAV-0.2m), Moxitaidi (UAV-1m), 0.3586, 0.5384, 0.4305, 0.2743, 0.5808, 0.8918, 0.0720
+Jiuzhai valley (UAV-0.2m), palu, 0.0033, 0.0012, 0.0017, 0.0009, 0.4928, 0.9847, 0.0008
+Jiuzhai valley (UAV-0.2m), Tiburon Peninsula (planet), 0.5819, 0.3141, 0.4080, 0.2563, 0.5962, 0.9374, 0.0660
+Jiuzhai valley (UAV-0.2m), Tiburon Peninsula (Sentinel), 0.0414, 0.0034, 0.0064, 0.0032, 0.4825, 0.9617, 0.0053
+Jiuzhai valley (UAV-0.2m), Wenchuan, 0.4326, 0.2558, 0.3215, 0.1915, 0.5710, 0.9509, 0.0610
+Jiuzhai valley (UAV-0.5m), Hokkaido Iburi-Tobu, 0.6969, 0.4545, 0.5502, 0.3795, 0.6537, 0.9309, 0.1672
+Jiuzhai valley (UAV-0.5m), Jiuzhai valley (UAV-0.2m), 0.8226, 0.5765, 0.6779, 0.5127, 0.6786, 0.8663, 0.1683
+Jiuzhai valley (UAV-0.5m), Lombok, 0.1056, 0.2960, 0.1557, 0.0844, 0.4928, 0.9022, 0.0580
+Jiuzhai valley (UAV-0.5m), Longxi River (SAT), 0.0412, 0.0004, 0.0008, 0.0004, 0.4502, 0.9000, 0.0000
+Jiuzhai valley (UAV-0.5m), Longxi River (UAV), 0.7835, 0.1347, 0.2299, 0.1298, 0.4883, 0.8502, 0.0443
+Jiuzhai valley (UAV-0.5m), Mengdong Township, 0.5253, 0.5501, 0.5374, 0.3674, 0.6342, 0.9063, 0.2049
+Jiuzhai valley (UAV-0.5m), Moxi town (UAV-0.2m), 0.2925, 0.6246, 0.3984, 0.2488, 0.4593, 0.7025, 0.0984
+Jiuzhai valley (UAV-0.5m), Moxi town (UAV-1m), 0.1674, 0.8056, 0.2772, 0.1609, 0.4294, 0.7145, 0.1558
+Jiuzhai valley (UAV-0.5m), Moxitaidi (SAT), 0.3583, 0.6122, 0.4520, 0.2920, 0.5962, 0.9044, 0.1127
+Jiuzhai valley (UAV-0.5m), Moxitaidi (UAV-0.6m), 0.2304, 0.3848, 0.2882, 0.1684, 0.4966, 0.8308, 0.0948
+Jiuzhai valley (UAV-0.5m), Moxitaidi (UAV-1m), 0.2056, 0.5320, 0.2966, 0.1741, 0.4873, 0.8084, 0.1020
+Jiuzhai valley (UAV-0.5m), palu, 0.0237, 0.0473, 0.0316, 0.0161, 0.4917, 0.9673, 0.0094
+Jiuzhai valley (UAV-0.5m), Tiburon Peninsula (planet), 0.2347, 0.1000, 0.1403, 0.0754, 0.4954, 0.9159, 0.0245
+Jiuzhai valley (UAV-0.5m), Tiburon Peninsula (Sentinel), 0.3498, 0.2644, 0.3012, 0.1773, 0.5666, 0.9564, 0.1030
+Jiuzhai valley (UAV-0.5m), Wenchuan, 0.5364, 0.2377, 0.3294, 0.1972, 0.5764, 0.9560, 0.1329
+Lombok, Hokkaido Iburi-Tobu, 0.2252, 0.0938, 0.1324, 0.0709, 0.4778, 0.8858, 0.0473
+Lombok, Jiuzhai valley (UAV-0.2m), 0.8839, 0.1109, 0.1971, 0.1093, 0.4413, 0.7795, 0.0720
+Lombok, Jiuzhai valley (UAV-0.5m), 0.6640, 0.2058, 0.3143, 0.1864, 0.5405, 0.8970, 0.1631
+Lombok, Longxi River (SAT), 0.0000, 0.0000, 0.0000, 0.0000, 0.4504, 0.9009, 0.0000
+Lombok, Longxi River (UAV), 0.0746, 0.0091, 0.0162, 0.0082, 0.4124, 0.8168, 0.0127
+Lombok, Mengdong Township, 0.0314, 0.0100, 0.0151, 0.0076, 0.4396, 0.8717, 0.0152
+Lombok, Moxi town (UAV-0.2m), 0.2134, 0.3282, 0.2586, 0.1485, 0.4177, 0.7031, 0.0504
+Lombok, Moxi town (UAV-1m), 0.1131, 0.8629, 0.2000, 0.1111, 0.3063, 0.5307, 0.1174
+Lombok, Moxitaidi (SAT), 0.1226, 0.0254, 0.0421, 0.0215, 0.4734, 0.9255, 0.0710
+Lombok, Moxitaidi (UAV-0.6m), 0.1569, 0.0347, 0.0568, 0.0292, 0.4632, 0.8974, 0.0203
+Lombok, Moxitaidi (UAV-1m), 0.0860, 0.0651, 0.0741, 0.0385, 0.4572, 0.8765, 0.0516
+Lombok, palu, 0.2731, 0.1730, 0.2119, 0.1185, 0.5520, 0.9855, 0.2994
+Lombok, Tiburon Peninsula (planet), 0.4820, 0.0013, 0.0027, 0.0013, 0.4664, 0.9314, 0.0045
+Lombok, Tiburon Peninsula (Sentinel), 0.2888, 0.0696, 0.1122, 0.0594, 0.5101, 0.9608, 0.0697
+Lombok, Wenchuan, 0.3012, 0.1157, 0.1672, 0.0912, 0.5193, 0.9476, 0.1595
+Longxi River (SAT), Hokkaido Iburi-Tobu, 0.9252, 0.0361, 0.0695, 0.0360, 0.4729, 0.9101, 0.0118
+Longxi River (SAT), Jiuzhai valley (UAV-0.2m), 0.5847, 0.5905, 0.5876, 0.4160, 0.5898, 0.7977, 0.1264
+Longxi River (SAT), Jiuzhai valley (UAV-0.5m), 0.5644, 0.4289, 0.4874, 0.3222, 0.6067, 0.8966, 0.1925
+Longxi River (SAT), Lombok, 0.0781, 0.3056, 0.1245, 0.0664, 0.4671, 0.8690, 0.0452
+Longxi River (SAT), Longxi River (UAV), 0.0582, 0.0068, 0.0122, 0.0061, 0.4114, 0.8169, 0.0103
+Longxi River (SAT), Mengdong Township, 0.6375, 0.1692, 0.2675, 0.1544, 0.5306, 0.9083, 0.0817
+Longxi River (SAT), Moxi town (UAV-0.2m), 0.4971, 0.4081, 0.4482, 0.2888, 0.5597, 0.8415, 0.0962
+Longxi River (SAT), Moxi town (UAV-1m), 0.3203, 0.0770, 0.1242, 0.0662, 0.4960, 0.9262, 0.0527
+Longxi River (SAT), Moxitaidi (SAT), 0.5216, 0.0110, 0.0216, 0.0109, 0.4733, 0.9357, 0.0041
+Longxi River (SAT), Moxitaidi (UAV-0.6m), 0.4075, 0.3728, 0.3894, 0.2418, 0.5670, 0.8959, 0.1430
+Longxi River (SAT), Moxitaidi (UAV-1m), 0.3531, 0.1496, 0.2101, 0.1174, 0.5155, 0.9146, 0.1085
+Longxi River (SAT), palu, 0.0100, 0.0264, 0.0145, 0.0073, 0.4835, 0.9596, 0.0099
+Longxi River (SAT), Tiburon Peninsula (planet), 0.2536, 0.2755, 0.2641, 0.1521, 0.5224, 0.8946, 0.1874
+Longxi River (SAT), Tiburon Peninsula (Sentinel), 0.1085, 0.0103, 0.0188, 0.0095, 0.4857, 0.9618, 0.0131
+Longxi River (SAT), Wenchuan, 0.2745, 0.2239, 0.2466, 0.1407, 0.5389, 0.9378, 0.1239
+Longxi River (UAV), Hokkaido Iburi-Tobu, 0.2349, 0.8692, 0.3699, 0.2269, 0.4637, 0.7247, 0.1785
+Longxi River (UAV), Jiuzhai valley (UAV-0.2m), 0.6789, 0.6261, 0.6514, 0.4830, 0.6450, 0.8365, 0.1185
+Longxi River (UAV), Jiuzhai valley (UAV-0.5m), 0.5132, 0.7123, 0.5966, 0.4251, 0.6524, 0.8895, 0.2583
+Longxi River (UAV), Lombok, 0.0791, 0.6530, 0.1412, 0.0759, 0.4145, 0.7580, 0.0818
+Longxi River (UAV), Longxi River (SAT), 0.1299, 0.0093, 0.0173, 0.0087, 0.4522, 0.8957, 0.0028
+Longxi River (UAV), Mengdong Township, 0.1771, 0.9260, 0.2974, 0.1746, 0.3491, 0.5672, 0.1369
+Longxi River (UAV), Moxi town (UAV-0.2m), 0.2212, 0.6284, 0.3272, 0.1956, 0.3715, 0.5923, 0.0644
+Longxi River (UAV), Moxi town (UAV-1m), 0.0855, 0.9027, 0.1562, 0.0847, 0.1892, 0.3371, 0.0465
+Longxi River (UAV), Moxitaidi (SAT), 0.1964, 0.8540, 0.3194, 0.1900, 0.4710, 0.7656, 0.1538
+Longxi River (UAV), Moxitaidi (UAV-0.6m), 0.1686, 0.6990, 0.2716, 0.1572, 0.4006, 0.6662, 0.1317
+Longxi River (UAV), Moxitaidi (UAV-1m), 0.1151, 0.7999, 0.2013, 0.1119, 0.2994, 0.5181, 0.1020
+Longxi River (UAV), palu, 0.0333, 0.4299, 0.0618, 0.0319, 0.4421, 0.8531, 0.1105
+Longxi River (UAV), Tiburon Peninsula (planet), 0.0792, 0.9963, 0.1467, 0.0791, 0.1126, 0.2044, 0.0300
+Longxi River (UAV), Tiburon Peninsula (Sentinel), 0.0799, 0.8759, 0.1465, 0.0790, 0.3523, 0.6372, 0.1176
+Longxi River (UAV), Wenchuan, 0.3071, 0.6181, 0.4103, 0.2581, 0.5875, 0.9193, 0.3572
+Mengdong Township, Hokkaido Iburi-Tobu, 0.7320, 0.4500, 0.5573, 0.3863, 0.6585, 0.9336, 0.2264
+Mengdong Township, Jiuzhai valley (UAV-0.2m), 0.8052, 0.5833, 0.6766, 0.5112, 0.6763, 0.8639, 0.1553
+Mengdong Township, Jiuzhai valley (UAV-0.5m), 0.8059, 0.4908, 0.6101, 0.4389, 0.6813, 0.9281, 0.1980
+Mengdong Township, Lombok, 0.0786, 0.2469, 0.1192, 0.0634, 0.4757, 0.8888, 0.0323
+Mengdong Township, Longxi River (SAT), 0.1989, 0.0024, 0.0048, 0.0024, 0.4513, 0.9002, 0.0006
+Mengdong Township, Longxi River (UAV), 0.4285, 0.1166, 0.1833, 0.1009, 0.4625, 0.8276, 0.1123
+Mengdong Township, Moxi town (UAV-0.2m), 0.5764, 0.2387, 0.3376, 0.2030, 0.5247, 0.8522, 0.0679
+Mengdong Township, Moxi town (UAV-1m), 0.2566, 0.1419, 0.1828, 0.1006, 0.5067, 0.9137, 0.0367
+Mengdong Township, Moxitaidi (SAT), 0.4954, 0.4033, 0.4446, 0.2859, 0.6096, 0.9351, 0.1479
+Mengdong Township, Moxitaidi (UAV-0.6m), 0.4273, 0.4240, 0.4256, 0.2703, 0.5822, 0.8981, 0.1341
+Mengdong Township, Moxitaidi (UAV-1m), 0.3824, 0.3462, 0.3634, 0.2220, 0.5637, 0.9079, 0.1157
+Mengdong Township, palu, 0.0257, 0.0514, 0.0342, 0.0174, 0.4924, 0.9673, 0.0231
+Mengdong Township, Tiburon Peninsula (planet), 0.4829, 0.4443, 0.4628, 0.3011, 0.6140, 0.9292, 0.2397
+Mengdong Township, Tiburon Peninsula (Sentinel), 0.2152, 0.1778, 0.1947, 0.1079, 0.5276, 0.9477, 0.1283
+Mengdong Township, Wenchuan, 0.6583, 0.2716, 0.3846, 0.2381, 0.5990, 0.9605, 0.1813
+Moxi town (UAV-0.2m), Hokkaido Iburi-Tobu, 0.7656, 0.0839, 0.1512, 0.0818, 0.4968, 0.9125, 0.0164
+Moxi town (UAV-0.2m), Jiuzhai valley (UAV-0.2m), 0.7360, 0.6046, 0.6639, 0.4969, 0.6608, 0.8506, 0.1259
+Moxi town (UAV-0.2m), Jiuzhai valley (UAV-0.5m), 0.7293, 0.6756, 0.7014, 0.5401, 0.7343, 0.9340, 0.1996
+Moxi town (UAV-0.2m), Lombok, 0.0760, 0.2811, 0.1196, 0.0636, 0.4682, 0.8739, 0.0186
+Moxi town (UAV-0.2m), Longxi River (SAT), 0.6729, 0.0006, 0.0011, 0.0006, 0.4508, 0.9009, 0.0000
+Moxi town (UAV-0.2m), Longxi River (UAV), 0.4814, 0.0083, 0.0163, 0.0082, 0.4210, 0.8340, 0.0010
+Moxi town (UAV-0.2m), Mengdong Township, 0.7154, 0.0871, 0.1553, 0.0842, 0.4948, 0.9063, 0.0301
+Moxi town (UAV-0.2m), Moxi town (UAV-1m), 0.4208, 0.3387, 0.3753, 0.2310, 0.5763, 0.9234, 0.1187
+Moxi town (UAV-0.2m), Moxitaidi (SAT), 0.8976, 0.1956, 0.3213, 0.1914, 0.5687, 0.9468, 0.0175
+Moxi town (UAV-0.2m), Moxitaidi (UAV-0.6m), 0.6253, 0.3007, 0.4061, 0.2548, 0.5871, 0.9217, 0.0888
+Moxi town (UAV-0.2m), Moxitaidi (UAV-1m), 0.5223, 0.2563, 0.3439, 0.2076, 0.5660, 0.9257, 0.0524
+Moxi town (UAV-0.2m), palu, 0.0029, 0.0038, 0.0033, 0.0017, 0.4879, 0.9742, 0.0026
+Moxi town (UAV-0.2m), Tiburon Peninsula (planet), 0.5521, 0.3273, 0.4110, 0.2586, 0.5964, 0.9356, 0.0986
+Moxi town (UAV-0.2m), Tiburon Peninsula (Sentinel), 0.2943, 0.0538, 0.0910, 0.0477, 0.5047, 0.9618, 0.0275
+Moxi town (UAV-0.2m), Wenchuan, 0.5799, 0.1726, 0.2661, 0.1534, 0.5549, 0.9567, 0.0854
+Moxi town (UAV-1m), Hokkaido Iburi-Tobu, 0.6013, 0.2130, 0.3146, 0.1866, 0.5493, 0.9137, 0.0535
+Moxi town (UAV-1m), Jiuzhai valley (UAV-0.2m), 0.7105, 0.6768, 0.6933, 0.5305, 0.6777, 0.8539, 0.1327
+Moxi town (UAV-1m), Jiuzhai valley (UAV-0.5m), 0.5572, 0.6905, 0.6167, 0.4459, 0.6695, 0.9016, 0.2400
+Moxi town (UAV-1m), Lombok, 0.0896, 0.3962, 0.1461, 0.0788, 0.4680, 0.8589, 0.0602
+Moxi town (UAV-1m), Longxi River (SAT), 0.9316, 0.0268, 0.0521, 0.0268, 0.4649, 0.9034, 0.0003
+Moxi town (UAV-1m), Longxi River (UAV), 0.8104, 0.1077, 0.1901, 0.1050, 0.4750, 0.8477, 0.0359
+Moxi town (UAV-1m), Mengdong Township, 0.3899, 0.4086, 0.3990, 0.2492, 0.5612, 0.8783, 0.1192
+Moxi town (UAV-1m), Moxi town (UAV-0.2m), 0.5480, 0.6642, 0.6005, 0.4291, 0.6367, 0.8606, 0.1200
+Moxi town (UAV-1m), Moxitaidi (SAT), 0.5545, 0.4023, 0.4663, 0.3040, 0.6216, 0.9407, 0.0518
+Moxi town (UAV-1m), Moxitaidi (UAV-0.6m), 0.2876, 0.3984, 0.3340, 0.2005, 0.5269, 0.8586, 0.0904
+Moxi town (UAV-1m), Moxitaidi (UAV-1m), 0.3078, 0.3848, 0.3420, 0.2063, 0.5453, 0.8876, 0.1014
+Moxi town (UAV-1m), palu, 0.0397, 0.0691, 0.0504, 0.0258, 0.4982, 0.9707, 0.0096
+Moxi town (UAV-1m), Tiburon Peninsula (planet), 0.3760, 0.7170, 0.4933, 0.3274, 0.6105, 0.8989, 0.2108
+Moxi town (UAV-1m), Tiburon Peninsula (Sentinel), 0.2645, 0.2444, 0.2540, 0.1455, 0.5470, 0.9490, 0.0446
+Moxi town (UAV-1m), Wenchuan, 0.3971, 0.2470, 0.3045, 0.1796, 0.5639, 0.9487, 0.1343
+Moxitaidi (SAT), Hokkaido Iburi-Tobu, 0.6246, 0.2474, 0.3545, 0.2154, 0.5648, 0.9162, 0.0682
+Moxitaidi (SAT), Jiuzhai valley (UAV-0.2m), 0.1819, 0.5392, 0.2720, 0.1574, 0.1733, 0.2958, 0.0488
+Moxitaidi (SAT), Jiuzhai valley (UAV-0.5m), 0.1183, 0.7900, 0.2058, 0.1147, 0.1729, 0.3008, 0.0436
+Moxitaidi (SAT), Lombok, 0.0351, 0.4003, 0.0646, 0.0334, 0.3378, 0.6466, 0.0568
+Moxitaidi (SAT), Longxi River (SAT), 0.2189, 0.8591, 0.3489, 0.2113, 0.4321, 0.6823, 0.0538
+Moxitaidi (SAT), Longxi River (UAV), 0.2349, 0.4808, 0.3156, 0.1874, 0.4057, 0.6540, 0.0487
+Moxitaidi (SAT), Mengdong Township, 0.2501, 0.6222, 0.3568, 0.2171, 0.4904, 0.7782, 0.1285
+Moxitaidi (SAT), Moxi town (UAV-0.2m), 0.1975, 0.7615, 0.3136, 0.1860, 0.2942, 0.4742, 0.0263
+Moxitaidi (SAT), Moxi town (UAV-1m), 0.0612, 0.2187, 0.0956, 0.0502, 0.3824, 0.7188, 0.0395
+Moxitaidi (SAT), Moxitaidi (UAV-0.6m), 0.1217, 0.9419, 0.2156, 0.1208, 0.2274, 0.3897, 0.0359
+Moxitaidi (SAT), Moxitaidi (UAV-1m), 0.1164, 0.8478, 0.2047, 0.1140, 0.2898, 0.5000, 0.0547
+Moxitaidi (SAT), palu, 0.0176, 0.1454, 0.0315, 0.0160, 0.4575, 0.8992, 0.0492
+Moxitaidi (SAT), Tiburon Peninsula (planet), 0.1066, 0.9686, 0.1920, 0.1062, 0.2536, 0.4408, 0.0638
+Moxitaidi (SAT), Tiburon Peninsula (Sentinel), 0.0827, 0.1049, 0.0925, 0.0485, 0.4875, 0.9268, 0.0522
+Moxitaidi (SAT), Wenchuan, 0.1240, 0.8333, 0.2159, 0.1210, 0.4176, 0.7250, 0.1423
+Moxitaidi (UAV-0.6m), Hokkaido Iburi-Tobu, 0.8500, 0.0074, 0.0147, 0.0074, 0.4575, 0.9076, 0.0022
+Moxitaidi (UAV-0.6m), Jiuzhai valley (UAV-0.2m), 0.7338, 0.6530, 0.6910, 0.5279, 0.6792, 0.8575, 0.1546
+Moxitaidi (UAV-0.6m), Jiuzhai valley (UAV-0.5m), 0.7415, 0.5017, 0.5985, 0.4270, 0.6726, 0.9228, 0.2241
+Moxitaidi (UAV-0.6m), Lombok, 0.0716, 0.2742, 0.1135, 0.0602, 0.4643, 0.8696, 0.0386
+Moxitaidi (UAV-0.6m), Longxi River (SAT), 0.0175, 0.0026, 0.0046, 0.0023, 0.4444, 0.8865, 0.0066
+Moxitaidi (UAV-0.6m), Longxi River (UAV), 0.5337, 0.0166, 0.0323, 0.0164, 0.4252, 0.8344, 0.0157
+Moxitaidi (UAV-0.6m), Mengdong Township, 0.6573, 0.1837, 0.2871, 0.1676, 0.5379, 0.9098, 0.0582
+Moxitaidi (UAV-0.6m), Moxi town (UAV-0.2m), 0.7035, 0.3445, 0.4625, 0.3008, 0.5836, 0.8737, 0.0836
+Moxitaidi (UAV-0.6m), Moxi town (UAV-1m), 0.5931, 0.0495, 0.0914, 0.0479, 0.4904, 0.9331, 0.0303
+Moxitaidi (UAV-0.6m), Moxitaidi (SAT), 0.9813, 0.1552, 0.2681, 0.1548, 0.5498, 0.9454, 0.0083
+Moxitaidi (UAV-0.6m), Moxitaidi (UAV-1m), 0.6830, 0.3757, 0.4847, 0.3199, 0.6287, 0.9394, 0.1864
+Moxitaidi (UAV-0.6m), palu, 0.0086, 0.0073, 0.0079, 0.0040, 0.4917, 0.9794, 0.0021
+Moxitaidi (UAV-0.6m), Tiburon Peninsula (planet), 0.5387, 0.4874, 0.5117, 0.3439, 0.6389, 0.9362, 0.2083
+Moxitaidi (UAV-0.6m), Tiburon Peninsula (Sentinel), 0.0645, 0.0032, 0.0061, 0.0031, 0.4830, 0.9629, 0.0053
+Moxitaidi (UAV-0.6m), Wenchuan, 0.4458, 0.2765, 0.3413, 0.2058, 0.5783, 0.9515, 0.2000
+Moxitaidi (UAV-1m), Hokkaido Iburi-Tobu, 0.7571, 0.1387, 0.2344, 0.1328, 0.5237, 0.9158, 0.0676
+Moxitaidi (UAV-1m), Jiuzhai valley (UAV-0.2m), 0.8284, 0.6371, 0.7203, 0.5628, 0.7099, 0.8792, 0.1548
+Moxitaidi (UAV-1m), Jiuzhai valley (UAV-0.5m), 0.7383, 0.5592, 0.6364, 0.4667, 0.6942, 0.9267, 0.2454
+Moxitaidi (UAV-1m), Lombok, 0.1022, 0.3111, 0.1538, 0.0833, 0.4890, 0.8957, 0.0640
+Moxitaidi (UAV-1m), Longxi River (SAT), 0.0962, 0.0000, 0.0000, 0.0000, 0.4505, 0.9009, 0.0000
+Moxitaidi (UAV-1m), Longxi River (UAV), 0.3743, 0.0193, 0.0367, 0.0187, 0.4250, 0.8319, 0.0204
+Moxitaidi (UAV-1m), Mengdong Township, 0.5405, 0.2915, 0.3787, 0.2336, 0.5681, 0.9054, 0.1143
+Moxitaidi (UAV-1m), Moxi town (UAV-0.2m), 0.6419, 0.3104, 0.4185, 0.2646, 0.5607, 0.8639, 0.1144
+Moxitaidi (UAV-1m), Moxi town (UAV-1m), 0.4277, 0.1096, 0.1744, 0.0955, 0.5123, 0.9295, 0.0994
+Moxitaidi (UAV-1m), Moxitaidi (SAT), 0.9038, 0.0986, 0.1777, 0.0975, 0.5192, 0.9413, 0.0111
+Moxitaidi (UAV-1m), Moxitaidi (UAV-0.6m), 0.5925, 0.5221, 0.5551, 0.3841, 0.6530, 0.9255, 0.1993
+Moxitaidi (UAV-1m), palu, 0.0379, 0.0503, 0.0432, 0.0221, 0.4985, 0.9749, 0.0103
+Moxitaidi (UAV-1m), Tiburon Peninsula (planet), 0.5152, 0.6303, 0.5670, 0.3957, 0.6633, 0.9339, 0.2809
+Moxitaidi (UAV-1m), Tiburon Peninsula (Sentinel), 0.1668, 0.0482, 0.0748, 0.0388, 0.4982, 0.9576, 0.0284
+Moxitaidi (UAV-1m), Wenchuan, 0.4404, 0.3747, 0.4049, 0.2538, 0.6015, 0.9500, 0.2206
+palu, Hokkaido Iburi-Tobu, 0.3066, 0.0164, 0.0312, 0.0159, 0.4604, 0.9051, 0.0487
+palu, Jiuzhai valley (UAV-0.2m), 0.4626, 0.0134, 0.0261, 0.0132, 0.3839, 0.7554, 0.0180
+palu, Jiuzhai valley (UAV-0.5m), 0.2385, 0.0256, 0.0463, 0.0237, 0.4511, 0.8789, 0.0469
+palu, Lombok, 0.4004, 0.0824, 0.1367, 0.0734, 0.5208, 0.9683, 0.1164
+palu, Longxi River (SAT), 0.0000, 0.0000, 0.0000, 0.0000, 0.4504, 0.9009, 0.0000
+palu, Longxi River (UAV), 0.7084, 0.0002, 0.0004, 0.0002, 0.4171, 0.8341, 0.0002
+palu, Mengdong Township, 0.5216, 0.0014, 0.0028, 0.0014, 0.4513, 0.9011, 0.0041
+palu, Moxi town (UAV-0.2m), 0.1055, 0.0040, 0.0076, 0.0038, 0.4207, 0.8376, 0.0115
+palu, Moxi town (UAV-1m), 0.1018, 0.0094, 0.0172, 0.0087, 0.4678, 0.9270, 0.0512
+palu, Moxitaidi (SAT), 0.2439, 0.0130, 0.0246, 0.0125, 0.4731, 0.9338, 0.0764
+palu, Moxitaidi (UAV-0.6m), 0.4371, 0.0024, 0.0048, 0.0024, 0.4566, 0.9109, 0.0076
+palu, Moxitaidi (UAV-1m), 0.1959, 0.0020, 0.0040, 0.0020, 0.4628, 0.9236, 0.0151
+palu, Tiburon Peninsula (planet), 0.0955, 0.5347, 0.1620, 0.0882, 0.3471, 0.6206, 0.2016
+palu, Tiburon Peninsula (Sentinel), 0.1980, 0.2814, 0.2324, 0.1315, 0.5324, 0.9340, 0.2157
+palu, Wenchuan, 0.4936, 0.1807, 0.2645, 0.1524, 0.5532, 0.9543, 0.2983
+Tiburon Peninsula (planet), Hokkaido Iburi-Tobu, 0.5897, 0.3527, 0.4414, 0.2832, 0.5987, 0.9170, 0.1472
+Tiburon Peninsula (planet), Jiuzhai valley (UAV-0.2m), 0.6488, 0.6665, 0.6575, 0.4898, 0.6437, 0.8306, 0.1295
+Tiburon Peninsula (planet), Jiuzhai valley (UAV-0.5m), 0.3900, 0.7377, 0.5103, 0.3425, 0.5826, 0.8376, 0.1616
+Tiburon Peninsula (planet), Lombok, 0.1375, 0.5898, 0.2231, 0.1255, 0.4990, 0.8748, 0.2208
+Tiburon Peninsula (planet), Longxi River (SAT), 0.7978, 0.0491, 0.0925, 0.0485, 0.4763, 0.9045, 0.0405
+Tiburon Peninsula (planet), Longxi River (UAV), 0.4415, 0.0493, 0.0886, 0.0464, 0.4384, 0.8319, 0.0202
+Tiburon Peninsula (planet), Mengdong Township, 0.4585, 0.0845, 0.1427, 0.0768, 0.4878, 0.8996, 0.0681
+Tiburon Peninsula (planet), Moxi town (UAV-0.2m), 0.2363, 0.7532, 0.3598, 0.2194, 0.3698, 0.5772, 0.0622
+Tiburon Peninsula (planet), Moxi town (UAV-1m), 0.1605, 0.8296, 0.2690, 0.1554, 0.4154, 0.6936, 0.1466
+Tiburon Peninsula (planet), Moxitaidi (SAT), 0.3688, 0.4406, 0.4015, 0.2512, 0.5821, 0.9154, 0.1060
+Tiburon Peninsula (planet), Moxitaidi (UAV-0.6m), 0.1897, 0.2199, 0.2037, 0.1134, 0.4786, 0.8469, 0.0867
+Tiburon Peninsula (planet), Moxitaidi (UAV-1m), 0.1789, 0.3600, 0.2390, 0.1357, 0.4784, 0.8259, 0.0941
+Tiburon Peninsula (planet), palu, 0.0410, 0.0992, 0.0580, 0.0299, 0.4968, 0.9637, 0.0356
+Tiburon Peninsula (planet), Tiburon Peninsula (Sentinel), 0.4386, 0.2076, 0.2818, 0.1640, 0.5631, 0.9624, 0.1265
+Tiburon Peninsula (planet), Wenchuan, 0.3810, 0.6204, 0.4721, 0.3090, 0.6221, 0.9370, 0.4531
+Tiburon Peninsula (Sentinel), Hokkaido Iburi-Tobu, 0.3067, 0.0112, 0.0217, 0.0109, 0.4583, 0.9057, 0.0178
+Tiburon Peninsula (Sentinel), Jiuzhai valley (UAV-0.2m), 0.7915, 0.1337, 0.2287, 0.1291, 0.4509, 0.7800, 0.0943
+Tiburon Peninsula (Sentinel), Jiuzhai valley (UAV-0.5m), 0.7686, 0.1860, 0.2995, 0.1761, 0.5371, 0.9002, 0.2019
+Tiburon Peninsula (Sentinel), Lombok, 0.3439, 0.1221, 0.1802, 0.0990, 0.5325, 0.9662, 0.1276
+Tiburon Peninsula (Sentinel), Longxi River (SAT), 0.0000, 0.0000, 0.0000, 0.0000, 0.4503, 0.9006, 0.0000
+Tiburon Peninsula (Sentinel), Longxi River (UAV), 0.4208, 0.0013, 0.0026, 0.0013, 0.4176, 0.8340, 0.0065
+Tiburon Peninsula (Sentinel), Mengdong Township, 0.1468, 0.0125, 0.0230, 0.0117, 0.4533, 0.8952, 0.0444
+Tiburon Peninsula (Sentinel), Moxi town (UAV-0.2m), 0.3064, 0.0970, 0.1474, 0.0796, 0.4499, 0.8229, 0.0513
+Tiburon Peninsula (Sentinel), Moxi town (UAV-1m), 0.1481, 0.5454, 0.2330, 0.1319, 0.4392, 0.7559, 0.1726
+Tiburon Peninsula (Sentinel), Moxitaidi (SAT), 0.1664, 0.0326, 0.0545, 0.0280, 0.4775, 0.9272, 0.0662
+Tiburon Peninsula (Sentinel), Moxitaidi (UAV-0.6m), 0.0620, 0.0084, 0.0148, 0.0074, 0.4539, 0.9004, 0.0203
+Tiburon Peninsula (Sentinel), Moxitaidi (UAV-1m), 0.0354, 0.0273, 0.0309, 0.0157, 0.4425, 0.8696, 0.0426
+Tiburon Peninsula (Sentinel), palu, 0.2255, 0.1168, 0.1539, 0.0834, 0.5344, 0.9855, 0.2031
+Tiburon Peninsula (Sentinel), Tiburon Peninsula (planet), 0.6838, 0.3670, 0.4777, 0.3138, 0.6286, 0.9449, 0.4677
+Tiburon Peninsula (Sentinel), Wenchuan, 0.4534, 0.3457, 0.3923, 0.2440, 0.5973, 0.9513, 0.4002
+Wenchuan, Hokkaido Iburi-Tobu, 0.4848, 0.2131, 0.2961, 0.1738, 0.5388, 0.9058, 0.1762
+Wenchuan, Jiuzhai valley (UAV-0.2m), 0.7518, 0.4872, 0.5912, 0.4197, 0.6165, 0.8356, 0.1215
+Wenchuan, Jiuzhai valley (UAV-0.5m), 0.6387, 0.3752, 0.4727, 0.3095, 0.6046, 0.9040, 0.2442
+Wenchuan, Lombok, 0.0697, 0.2194, 0.1057, 0.0558, 0.4710, 0.8869, 0.1167
+Wenchuan, Longxi River (SAT), 0.1207, 0.0054, 0.0104, 0.0052, 0.4513, 0.8975, 0.0029
+Wenchuan, Longxi River (UAV), 0.6935, 0.1959, 0.3055, 0.1803, 0.5138, 0.8522, 0.1890
+Wenchuan, Mengdong Township, 0.5136, 0.5467, 0.5296, 0.3602, 0.6293, 0.9040, 0.2924
+Wenchuan, Moxi town (UAV-0.2m), 0.2954, 0.1807, 0.2242, 0.1263, 0.4616, 0.8028, 0.0612
+Wenchuan, Moxi town (UAV-1m), 0.1522, 0.3058, 0.2032, 0.1131, 0.4734, 0.8371, 0.1495
+Wenchuan, Moxitaidi (SAT), 0.2707, 0.4572, 0.3400, 0.2048, 0.5435, 0.8857, 0.1620
+Wenchuan, Moxitaidi (UAV-0.6m), 0.2451, 0.3239, 0.2790, 0.1621, 0.5043, 0.8510, 0.1426
+Wenchuan, Moxitaidi (UAV-1m), 0.2107, 0.3630, 0.2666, 0.1538, 0.4989, 0.8484, 0.1268
+Wenchuan, palu, 0.0296, 0.1572, 0.0498, 0.0255, 0.4789, 0.9324, 0.1757
+Wenchuan, Tiburon Peninsula (planet), 0.1617, 0.8601, 0.2722, 0.1576, 0.4111, 0.6844, 0.2484
+Wenchuan, Tiburon Peninsula (Sentinel), 0.2836, 0.2859, 0.2847, 0.1660, 0.5572, 0.9489, 0.2295
